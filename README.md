@@ -1,6 +1,6 @@
 <h1 id="-about-me-">💫 About Me:</h1>
 <p>🔭 I&#39;m currently working at TownSq, a global leader company in community management, as a Junior Software
-    Engineer III, more focused on front-end using stacks such as TypeScript and Angular +15.<br>👯‍♂️ I&#39;m looking to
+    Engineer III, focused on full-stack development using the following stacks: TypeScript, Angular +15, Java, Spring Boot, PostgreSQL, AWS.<br>👯‍♂️ I&#39;m looking to
     collaborate on open-source projects.<br>🤝 I&#39;m looking for help with how can I be more active here on GitHub and
     how to collaborate in open-source.<br>🌱 I&#39;m currently learning Java + Spring Framework.<br>💬 Ask me about
     front-end principles, Angular, TypeScript, state management, and unit testing. (I&#39;m not sure if I&#39;ll have
